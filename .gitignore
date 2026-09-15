@@ -1,0 +1,5 @@
+.env
+data/
+*.xlsx
+alert_history.json
+__pycache__/
